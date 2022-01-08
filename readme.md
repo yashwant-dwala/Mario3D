@@ -1,4 +1,4 @@
-# StaticRunner
+# Mario 3D
 
 Classic 3D Third Person Plateformer Game using Unity Game Engind.
 
