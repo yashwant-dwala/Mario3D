@@ -1,6 +1,6 @@
 # Mario 3D
 
-Classic 3D Third Person Plateformer Game using Unity Game Engind.
+Classic 3D Third Person Plateformer Game using Unity Game Engine.
 
 
 Navigation: Up(W), Down(S), Left(A), Right(D), Space To jump and SHIFT to roll forward.
